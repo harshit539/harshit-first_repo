@@ -1,3 +1,3 @@
 # harshit-first_repo
 This is my first Git repository.
-Author - Harshit Gupta
+Author - Harshit Guptaa
